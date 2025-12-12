@@ -1,0 +1,7 @@
+{
+  "name": "2025 倫敦之旅",
+  "description": "2025 年 12 月 13 日至 20 日倫敦之旅的專屬旅遊伴侶。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
